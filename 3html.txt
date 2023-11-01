@@ -1,0 +1,29 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="YourRollno_style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="1bscs23156.html">HOME</a></li>
+                <li><a href="BSCS23156.html">PRODUCTS</a></li>
+                <li><a href="3scs23156.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="contact">
+        <div class="contact-box">
+            <p>Cell: 0323145679</p>
+            <p>Email: contact@shoesllc.com</p>
+            <p>Location: lahore, pakistan</p>
+            <a href="https://www.facebook.com/yourpage" target="_blank">
+                <img src="facebook_logo.png" alt="Facebook">
+            </a>
+            <a href="https://www.instagram.com/yourpage" target="_blank">
+                <img src="instagram_logo.png" alt="Instagram">
+            </a>
+        </div>
+    </section>
+</body>
+</html>

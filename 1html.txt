@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="YourRollno_style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="1bscs23156.html">HOME</a></li>
+                <li><a href="BSCS23156.html">PRODUCTS</a></li>
+                <li><a href="3scs23156.html">ABOUT US</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="about-us" width=" 500">
+        <img src="about_us_image.jpg" alt="About Us">
+    
+        <h1>SHOES LLC</h1>
+    </section>
+    <section class="check-products">
+        <img src="mo.jpg" width=" 1300">
+        <br>
+        <a href="BSCS23156_Products.html" class="btn">Check Our Products</a>
+        <br/>
+    </section>
+    <footer>
+        <p>Cell: 0398754323</p>
+        <p>Email: contact@SHOESLLC.com</p>
+        <p>Location: LAHORE, PAKISTAN</p>
+    </footer>
+</body>
+</html>
